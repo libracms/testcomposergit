@@ -2,3 +2,5 @@ testcomposergit
 ===============
 
 test
+
+add ci
